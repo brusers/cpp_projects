@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionList>
+	
+    <Question number="1" question="The first toilet ever seen on television was shown on which show?">
+        <Answer A1="The A team" A2="Leave it to Beaver" A3="Knight Rider" A4="I love Lucy" correct="2">
+        </Answer>
+    </Question>
+   
+    <Question number="2" question="What percent of the people who use personal ads for dating are already married?">
+        <Answer A1="5%" A2="10%" A3="35%" A4="65%"correct="3">
+        </Answer>
+    </Question> 
+    
+    <Question number="3" question="Blueberry jelly beans were especially made for which president?">
+        <Answer A1="Ronald Reagan" A2="Jimmy Carter" A3="Bill Clinton" A4="Barack Obama"correct="1">
+        </Answer>
+    </Question> 
+    
+    <Question number="4" question="Almonds are a member of the what family?">
+        <Answer A1="Peach" A2="Avocado" A3="Nectarine" A4="plum"correct="1">
+        </Answer>
+    </Question> 
+    
+    <Question number="5" question="Before Late Night Television, Jay Leno appeared in an episode of which TV show?">
+        <Answer A1="Everybody Loves Raymond" A2="I Dream of Jeannie" A3="The Andy Griffith Show" A4="Laverne and Shirley"correct="4">
+        </Answer>
+    </Question> 
+    
+    <Question number="6" question="Al Capone's business card said he was a what?">
+        <Answer A1="School teacher" A2="Doctor" A3="Used furniture dealer" A4="Used car salesman"correct="3">
+        </Answer>
+    </Question> 
+    
+    <Question number="7" question="A dragonfly has a life span of how many hours?">
+        <Answer A1="24" A2="36" A3="48" A4="96"correct="1">
+        </Answer>
+    </Question> 
+    
+    <Question number="8" question="The electric door bell was invented int 1831 by who?">
+        <Answer A1="Lord Kelvin" A2="Humphry Davy" A3="Peter Durand" A4="Joseph Henry"correct="4">
+        </Answer>
+    </Question> 
+    
+    <Question number="9" question="Elvis had a pet monkey named what?">
+        <Answer A1="Jason" A2="Scatter" A3="Libro" A4="Sam"correct="2">
+        </Answer>
+    </Question> 
+    
+    <Question number="10" question="What best-selling passenger car has sold at least 22 million since 1937?">
+        <Answer A1="Cadillac Eldorado" A2="Ford Thunderbird" A3="Chevrolet Camaro" A4="VW Beetle"correct="4">
+        </Answer>
+    </Question> 
+    
+</MyBeerJournal>
